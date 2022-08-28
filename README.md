@@ -25,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![design/mobile-design.jpg](./screenshot.jpg)
+![design/desktop-design.jpg](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/BenChi3D/single-price-grid-component-master)
+- Live Site URL: [live site](https://benchi3d.github.io/single-price-grid-component-master/)
 
 ## My process
 
