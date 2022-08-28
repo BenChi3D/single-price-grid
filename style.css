@@ -118,8 +118,7 @@
 @media only screen and (min-width: 992px) {
     .cont{
         margin: auto;
-        padding-top: 50px;
-        padding-left: 250px;
+        justify-content: center;
         display: grid;
         grid-template-columns: 400px 400px;
         grid-template-rows: 250px 300px;

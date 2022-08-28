@@ -46,7 +46,7 @@ Users should be able to:
 
 - I learned and practice the grid layout system of the CSS Grid. `grid spacing` gave me a tough positioning time but eventually I got a grip of the positioning.
 
-- I used `margin` and `padding` to center my grid to the page.
+- I used `justify-content` to center my grid to the page.
 
 ### Useful resources
 
